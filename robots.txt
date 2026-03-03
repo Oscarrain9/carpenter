@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carpentercarpenter.ca/sitemap.xml
